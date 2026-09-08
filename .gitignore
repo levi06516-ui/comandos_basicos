@@ -1,0 +1,7 @@
+.vscode/
+.DS_Store
+.Tools
+.env
+*.log
+*.bak
+indicaciones.info
