@@ -1,3 +1,3 @@
-#Proyecto de comandos
+# Proyecto de comandos
 ## Manejo y Configuracion del Software
 ### Paralelo "B"
